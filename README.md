@@ -1,6 +1,6 @@
 # VoteMaster
 VoteMaster is a simple yet engaging Python program that simulates a voting center for any two nominees. It's designed to provide a hands-on experience with Python programming, while also giving you a glimpse into the exciting world of elections.
-👉 Key Features:
+👉 Key Features !!!:
 
 📜 Nominee Registration: Start by entering the names of your two favorite nominees. In our example, we have John and Sarah vying for the top spot!
 
